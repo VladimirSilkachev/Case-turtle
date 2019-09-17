@@ -7,11 +7,12 @@ import turtle
 
 def blades():
     #TODO: (vin):  левый синий треуголльник и правый красный паралледограм
-pass
+    pass
 
 def mainpart():
     #TODO: (Kirill): туловище вертолета
-pass
+    pass
 
-def rhombus()
-    #TODO: (vova)
+def rhombus():
+   #TODO: (vova)
+    pass
